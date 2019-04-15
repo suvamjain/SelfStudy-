@@ -16,7 +16,7 @@ An UI template for the selfstudy application
   
 <img align="right" width="400" height="800" src="https://github.com/suvamjain/SelfStudy-/blob/master/demo_screenshots/subjects.png">
  
-<br /><p> Other Screens </p> <br />
+<br /><br />
   
 <img align="left" width="400" height="800" src="https://github.com/suvamjain/SelfStudy-/blob/master/demo_screenshots/nav_bar.png">
 
