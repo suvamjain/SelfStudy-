@@ -12,14 +12,10 @@ An UI template for the selfstudy application
   
 ### Demo Screenshots - 
 
-<p>
-  <img align="left" width="400" height="800" src="https://github.com/suvamjain/SelfStudy-/blob/master/demo_screenshots/home.png">
+<img align="left" width="400" height="800" src="https://github.com/suvamjain/SelfStudy-/blob/master/demo_screenshots/home.png">
   
-  <img align="right" width="400" height="800" src="https://github.com/suvamjain/SelfStudy-/blob/master/demo_screenshots/subjects.png">
-</p>
+<img align="right" width="400" height="800" src="https://github.com/suvamjain/SelfStudy-/blob/master/demo_screenshots/subjects.png">
  
-<br /> <p>Some other screens are shown below </p><br />
-  
 <img align="left" width="400" height="800" src="https://github.com/suvamjain/SelfStudy-/blob/master/demo_screenshots/nav_bar.png">
 
 <img align="right" width="400" height="800" src="https://github.com/suvamjain/SelfStudy-/blob/master/demo_screenshots/other_tabs.png">
